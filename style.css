@@ -1,12 +1,12 @@
 h3{
-	color: white;
+	color: dimgrey;
 }
 header{
 	background-color: black;
 }
 a{
 	text-decoration: none;
-	color: white;
+	color: dimgrey;
 }
 ul{
 	list-style: none;
@@ -15,7 +15,18 @@ body{
 	background-color: dimgrey;
 }
 section{
-	background-color: darkred
+	background-color: dimgrey;
+}
+img{
+	max-width:10% ;
+	height: auto;
+}
+h3#title{
+color: black;
+}
+td, th{
+	border: 2px; border-style: solid;
+
 }
 
 
