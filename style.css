@@ -21,7 +21,7 @@ img{
 	max-width:10% ;
 	height: auto;
 }
-h3#title{
+h3.title{
 color: black;
 }
 td, th{
